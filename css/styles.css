@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url('/img/trem.svg'); /* Substitua pela sua imagem */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+h1, h2, h3 {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.693);
+}
+span {
+  font-style: italic;
+}
+
+.container_1 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgba(255, 255, 255, 0.642);
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 50px; /* Espaço entre a imagem e o texto */
+}
+
+.container_1 p {
+  margin-left: 200px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.container_1 img {
+  width: 500px; /* Ajuste o tamanho da imagem */
+  margin-right: 100px;
+}
+
+.container_2 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(255, 255, 255, 0.642);
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 50px; /* Espaço entre a imagem e o texto */
+}
+
+.container_2 p {
+  margin-right: 200px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.container_2 img {
+  width: 500px; /* Ajuste o tamanho da imagem */
+  margin-left: 200px;
+}
+
+.container_3 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(255, 255, 255, 0.642);
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 50px; /* Espaço entre a imagem e o texto */
+}
+
+.container_3 p {
+  margin-left: 200px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.container_3 img {
+  width: 500px; /* Ajuste o tamanho da imagem */
+  margin-right: 200px;
+}
+
+.container_4 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(255, 255, 255, 0.642);
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 50px; /* Espaço entre a imagem e o texto */
+}
+
+.container_4 p {
+  margin-right: 200px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.container_4 img {
+  width: 500px; /* Ajuste o tamanho da imagem */
+  margin-left: 200px;
+}
+
+.container_5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(255, 255, 255, 0.642);
+  display: flex;
+  align-items: center; /* Centraliza verticalmente */
+  gap: 50px; /* Espaço entre a imagem e o texto */
+}
+
+.container_5 p {
+  margin-left: 200px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.container_5 img {
+  width: 500px; /* Ajuste o tamanho da imagem */
+  margin-right: 200px;
+}
